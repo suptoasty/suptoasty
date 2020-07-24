@@ -5,12 +5,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suptoasty&show_icons=true&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=suptoasty&show_icons=true&theme=tokyonight)
 
+<!--
 <a href="https://github.com/suptoasty/IWannaBeTheRevenge">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suptoasty&repo=IWannaBeTheRevenge&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/suptoasty/Asteroids">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suptoasty&repo=Asteroids&show_icons=true&theme=tokyonight" />
 </a>
+-->
 
 
 <!-- Twitter, linkedin, website -->
