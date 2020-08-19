@@ -2,7 +2,7 @@
 :link:
 [Jason Lonsinger](https://jasonlonsinger.wordpress.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suptoasty&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suptoasty&show_icons=true&theme=tokyonight&hide=ShaderLab)
 ![Stats](https://github-readme-stats.vercel.app/api?username=suptoasty&show_icons=true&theme=tokyonight)
 
 <!--
