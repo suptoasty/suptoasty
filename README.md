@@ -4,6 +4,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suptoasty&show_icons=true&theme=tokyonight&hide=ShaderLab)
 ![Stats](https://github-readme-stats.vercel.app/api?username=suptoasty&show_icons=true&theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 <a href="https://github.com/suptoasty/IWannaBeTheRevenge">
