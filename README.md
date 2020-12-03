@@ -6,6 +6,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=suptoasty&show_icons=true&theme=tokyonight)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S21RZGA)
+
 <!--
 <a href="https://github.com/suptoasty/IWannaBeTheRevenge">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suptoasty&repo=IWannaBeTheRevenge&show_icons=true&theme=tokyonight" />
