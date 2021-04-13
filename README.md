@@ -1,4 +1,4 @@
-### "Hello There" - 🧔 <img src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" width="16" style="opacity: 0.0;" />  
+### "Hello There" - 🧔 <img src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" width="24" style="opacity: 0.0;" />  
 :link:
 [Jason Lonsinger](https://jasonlonsinger.wordpress.com)
 
