@@ -2,7 +2,7 @@
 <!-- 🧔 <img src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" width="24" style="opacity: 0.0;" />  
 -->
 :link:
-[Jason Lonsinger](https://jasonlonsinger.wordpress.com)
+[Jason Lonsinger](https://jasonlonsinger.com)
 
 ### Favorite Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
